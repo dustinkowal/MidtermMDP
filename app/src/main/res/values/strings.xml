@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MidtermMDP</string>
+    <string name="text_view_title">Enter your name:</string>
+    <string name="button_push">Push Me!</string>
+    <string name="text_view_result"></string>
+    <string name="text_view_hint">Name</string>
+</resources>
